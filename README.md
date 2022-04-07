@@ -21,4 +21,5 @@
 <a href="https://www.qt.io/" title="Qt"><img src="./icons/qt.png" alt="Qt logo" width="41px" height="41px"></a>
 <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
+<a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React" width="21px" height="21px"></a>
 
