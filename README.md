@@ -9,7 +9,7 @@
 ## Databases:
 <a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite" width="82" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL" width="41" height="41"></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL" width="82" height="41"></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL" width="82" height="61"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql.png" alt="MSSQL" width="62" height="61"></a>
 
 ## Toolset:
