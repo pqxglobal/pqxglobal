@@ -31,6 +31,3 @@
 <a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
 <a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
 <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
-
-## Customers:
-<a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
