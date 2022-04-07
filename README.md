@@ -20,6 +20,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
 <a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="./icons/webstorm.svg" alt="WebStorm" width="41px" height="41px"></a>
 <a href="https://www.qt.io/" title="Qt"><img src="./icons/qt.png" alt="Qt logo" width="41px" height="41px"></a>
+<a href="https://cmake.org/" title="CMake"><img src="./icons/cmake.png" alt="CMake logo" width="61px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
 <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
@@ -27,4 +28,4 @@
 <a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
 <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
-<a href="https://cmake.org/" title="CMake"><img src="./icons/cmake.png" alt="CMake logo" width="61px" height="41px"></a>
+
