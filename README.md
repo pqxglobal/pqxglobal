@@ -24,5 +24,5 @@
 <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
 <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
-<a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.svg" alt="Node Js logo" width="61px" height="41px"></a>
+<a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 
