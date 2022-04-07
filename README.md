@@ -5,7 +5,6 @@
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="41px" height="41px"></a>
 <a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript" width="41px" height="41px"></a>
 <a href="https://www.python.org/" title="Python"><img src="./icons/python.svg" alt="Python" width="41" height="41"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="./icons/visual-basic.png" alt="Visual Basic logo" width="41" height="41"></a>
 <a href="https://kotlinlang.org/" title="Kotlin"><img src="./icons/kotlin.svg" alt="Kotlin" width="41" height="41"></a>
 
 ## Databases:
@@ -13,12 +12,10 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL" width="41" height="41"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL" width="82" height="51"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql.png" alt="MSSQL" width="62" height="61"></a>
-<a href="https://www.microsoft.com/en-ww/microsoft-365/access" title="MS Access"><img src="./icons/access.png" alt="MS Access logo" width="62" height="41"></a>
 
 ## Toolset:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
-<a href="https://www.jetbrains.com/webstorm/" title="WebStorm"><img src="./icons/webstorm.svg" alt="WebStorm" width="41px" height="41px"></a>
 <a href="https://www.qt.io/" title="Qt"><img src="./icons/qt.png" alt="Qt logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake.png" alt="CMake logo" width="61px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
