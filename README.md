@@ -1,3 +1,5 @@
+## Tech Stack:
+
 ## Programming Languages:
 <a href="https://www.programiz.com/c-programming" title="C"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="./icons/cpp.png" alt="C plus plus programming language logo" width="41px" height="41px"></a>
