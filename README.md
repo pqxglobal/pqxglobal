@@ -9,6 +9,7 @@
 ## Databases:
 <a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite" width="82" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL" width="41" height="41"></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL" width="41" height="41"></a>
 
 ## Toolset:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
