@@ -1,7 +1,7 @@
 ## Programming Languages:
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="41px" height="41px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="41px" height="41px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript" width="41px" height="41px"></a>
+<a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript" width="41px" height="41px"></a>
 <a href="https://www.python.org/" title="Python"><img src="./icons/python.svg" alt="Python" width="41" height="41"></a>
 
 ## Databases:
