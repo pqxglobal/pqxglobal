@@ -35,3 +35,4 @@
 <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://codepen.io/" title="Codepen"><img src="./icons/codepen.png" alt="Codepen logo" width="41px" height="41px"></a>
+<a href="https://jigsaw.w3.org/css-validator/#validate_by_input"><img src="./icons/w3c.png" alt="W3C logo" width="41px" height="41px"></a>
