@@ -12,6 +12,7 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL" width="41" height="41"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL" width="82" height="51"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql.png" alt="MSSQL" width="62" height="61"></a>
+<a href="https://www.mongodb.com/" title="Mongo DB"><img src="./icons/mongo.png" alt="Mongo DB logo" width="42" height="41"></a>
 
 ## Toolset:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
