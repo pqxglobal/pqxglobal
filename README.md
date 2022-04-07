@@ -6,6 +6,7 @@
 <a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript" width="41px" height="41px"></a>
 <a href="https://www.python.org/" title="Python"><img src="./icons/python.svg" alt="Python" width="41" height="41"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="./icons/visual-basic.png" alt="Visual Basic logo" width="41" height="41"></a>
+<a href="https://kotlinlang.org/" title="Kotlin"><img src="./icons/kotlin.svg" alt="Kotlin" width="41" height="41"></a>
 
 ## Databases:
 <a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite" width="82" height="41"></a>
