@@ -4,7 +4,7 @@
 <a href="https://www.python.org/" title="Python"><img src="./icons/python.svg" alt="Python" width="41" height="41"></a>
 
 ## Databases:
-<a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite" width="42" height="21"></a>
+<a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite" width="82" height="41"></a>
 
 ## Toolset:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
