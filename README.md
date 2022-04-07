@@ -25,5 +25,5 @@
 <a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
 <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
-<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest.png" alt="Jest logo" width="61px" height="61px"></a>
+<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="61px" height="61px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
