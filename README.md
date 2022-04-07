@@ -1,4 +1,5 @@
 ## Programming Languages:
+<a href="https://isocpp.org/" title="CPP"><img src="./icons/cpp.png" alt="CPP" width="41px" height="41px"></a>
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="41px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="41px" height="41px"></a>
 <a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript" width="41px" height="41px"></a>
