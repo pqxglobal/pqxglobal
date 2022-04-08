@@ -18,8 +18,8 @@
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql-logo.png" alt="MSSQL" width="42" height="41"></a>
 <a href="https://www.mongodb.com/" title="Mongo DB"><img src="./icons/mongo.png" alt="Mongo DB logo" width="42" height="41"></a>
 
-## Toolset:
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
+> ## Toolset:
+> <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="./icons/visualstudio.png" alt="Visual Studio" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/ui-design-tools?hsLang=en" title="Qt Design Studio"><img src="./icons/designstudio.png" alt="Qt Design Studio logo" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
