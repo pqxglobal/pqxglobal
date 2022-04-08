@@ -42,3 +42,6 @@
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="./icons/bootstrap.png" alt="Bootstrap logo" width="61px" height="41px"></a>
 <a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
+<a href="https://www.keil.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="82px" height="41px"></a>
+<a href="https://www.keil.com/" title="LESS"><img src="./icons/less-logo.png" alt="LESS logo" width="82px" height="41px"></a>
+<a href="https://www.keil.com/" title="Stylus"><img src="./icons/stylus-logo.svg" alt="Stylus logo" width="82px" height="41px"></a>
