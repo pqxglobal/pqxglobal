@@ -38,4 +38,4 @@
 <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" title="w3c"><img src="./icons/w3c.png" alt="W3C logo" width="61px" height="41px"></a>
 <a href="https://materializecss.com/" title="Materialize"><img src="./icons/materialize.png" alt="Materialize logo" width="61px" height="41px"></a>
 <a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
-<a href="https://www.stroustrup.com/JSF-AV-rules.pdf/" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
+<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
