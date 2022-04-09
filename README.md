@@ -43,6 +43,7 @@
 <a href="https://materializecss.com/" title="Materialize"><img src="./icons/materialize.png" alt="Materialize logo" width="61px" height="41px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="./icons/bootstrap.png" alt="Bootstrap logo" width="61px" height="41px"></a>
 <a href="https://lit.dev/" title="Lit"><img src="./icons/lit-logo.png" alt="Lit logo" width="41px" height="41px"></a>
+<a href="https://react.semantic-ui.com/" title="Semantic UI React"><img src="./icons/semantic-ui-react-logo.png" alt="Semantic UI React logo" width="41px" height="41px"></a>
 <a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
