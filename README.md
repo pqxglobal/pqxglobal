@@ -51,3 +51,5 @@
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
 <a href="https://lesscss.org/" title="LESS"><img src="./icons/less_logo.png" alt="LESS logo" width="42px" height="41px"></a>
 <a href="https://stylus-lang.com/" title="Stylus"><img src="./icons/stylus-logo.svg" alt="Stylus logo" width="62px" height="41px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="62px" height="41px"></a>
+<a href="https://yarnpkg.com/" title="Yarn"><img src="./icons/yarn.png" alt="Yarn logo" width="62px" height="41px"></a>
