@@ -3,7 +3,7 @@
 > ## Programming Languages:
 > <a href="https://www.programiz.com/c-programming" title="C"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="./icons/cpp.png" alt="C plus plus programming language logo" width="41px" height="41px"></a>
-<a href="https://developer.arm.com/documentation/dui0473/j/writing-arm-assembly-language" title="ASM"><img src="./icons/asm.png" alt="ASM logo" width="41px" height="41px"></a>
+<a href="https://developer.arm.com/documentation/dui0473/j/writing-arm-assembly-language" title="ASM"><img src="./icons/asm.png" alt="ASM logo" width="61px" height="61px"></a>
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="41px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="41px" height="41px"></a>
 <a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript logo" width="41px" height="41px"></a>
