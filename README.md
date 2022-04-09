@@ -55,4 +55,4 @@
 <a href="https://yarnpkg.com/" title="Yarn"><img src="./icons/yarn.png" alt="Yarn logo" width="42px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://parceljs.org/" title="Parcel"><img src="./icons/parcel.png" alt="Parcel logo" width="62px" height="41px"></a>
-<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="62px" height="41px"></a>
+<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
