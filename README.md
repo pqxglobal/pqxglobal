@@ -35,6 +35,8 @@
 <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
 <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
+<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
 <a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
 <a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
@@ -56,8 +58,6 @@
 <a href="https://yarnpkg.com/" title="Yarn"><img src="./icons/yarn.png" alt="Yarn logo" width="42px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://parceljs.org/" title="Parcel"><img src="./icons/parcel.png" alt="Parcel logo" width="62px" height="41px"></a>
-<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
 <a href="https://monday.com/" title="Monday.com"><img src="./icons/monday-logo.png" alt="Monday.com logo" width="42px" height="41px"></a>
