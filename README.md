@@ -34,6 +34,7 @@
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
+<a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
 <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
