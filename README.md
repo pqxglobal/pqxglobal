@@ -58,7 +58,6 @@
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="./icons/yarn.png" alt="Yarn logo" width="42px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
-<a href="https://parceljs.org/" title="Parcel"><img src="./icons/parcel.png" alt="Parcel logo" width="62px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
 <a href="https://monday.com/" title="Monday.com"><img src="./icons/monday-logo.png" alt="Monday.com logo" width="42px" height="41px"></a>
