@@ -54,7 +54,6 @@
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
-<a href="https://yarnpkg.com/" title="Yarn"><img src="./icons/yarn.png" alt="Yarn logo" width="42px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
