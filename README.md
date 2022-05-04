@@ -1,4 +1,4 @@
-![](./icons/banner-border.png)
+![](./icons/banner-pqx.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=105271&background=5FAB3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+profile;Willkommen+auf+meinem+Github+Profil;Bienvenue+sur+mon+Github+profil;Welkom+op+mijn+Github+profiel)](https://git.io/typing-svg)
 
