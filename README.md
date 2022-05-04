@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=105271&background=5FAB3000&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+%F0%9F%98%80;Willkommen+auf+meinem+Profil+%F0%9F%98%80;Bienvenue+sur+mon+profil+%F0%9F%98%80;Welkom+op+mijn+profiel+%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=105271&background=5FAB3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile+%F0%9F%98%80;Willkommen+auf+meinem+Profil+%F0%9F%98%80;Bienvenue+sur+mon+profil+%F0%9F%98%80;Welkom+op+mijn+profiel+%F0%9F%98%80)](https://git.io/typing-svg)
 
 # Tech Stack:
 
