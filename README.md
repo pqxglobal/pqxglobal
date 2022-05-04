@@ -1,6 +1,6 @@
 ![](./icons/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=105271&background=5FAB3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+profile+%F0%9F%98%80;Willkommen+auf+meinem+Github+Profil+%F0%9F%98%80;Bienvenue+sur+mon+Github+profil+%F0%9F%98%80;Welkom+op+mijn+Github+profiel+%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=105271&background=5FAB3000&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+profile;Willkommen+auf+meinem+Github+Profil;Bienvenue+sur+mon+Github+profil;Welkom+op+mijn+Github+profiel)](https://git.io/typing-svg)
 
 # Tech Stack:
 
