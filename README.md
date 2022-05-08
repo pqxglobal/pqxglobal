@@ -68,12 +68,12 @@
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
+<a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://webassembly.org/" title="WASM"><img src="./icons/wasm.png" alt="WASM logo" width="42px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
 <a href="https://monday.com/" title="Monday.com"><img src="./icons/monday-logo.png" alt="Monday.com logo" width="42px" height="41px"></a>
-<a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="./icons/kubernetes.png" alt="Kubernetes logo" width="42px" height="41px"></a>
 <a href="https://www.nginx.com/" title="NGINX"><img src="./icons/nginx.png" alt="NGINX logo" width="42px" height="41px"></a>
