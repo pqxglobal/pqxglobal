@@ -33,6 +33,7 @@
 <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
 <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="./icons/react.svg" alt="React Native logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
 <a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
