@@ -25,6 +25,7 @@
 > ## Toolset:
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="./icons/visualstudio.png" alt="Visual Studio" width="41px" height="41px"></a>
+<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
 <a href="https://www.qt.io/product/ui-design-tools?hsLang=en" title="Qt Design Studio"><img src="./icons/designstudio.png" alt="Qt Design Studio logo" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
