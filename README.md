@@ -59,6 +59,7 @@
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://codepen.io/" title="Codepen"><img src="./icons/codepen.png" alt="Codepen logo" width="41px" height="41px"></a>
 <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" title="w3c"><img src="./icons/w3c.png" alt="W3C logo" width="61px" height="41px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind.png" alt="Tailwind logo" width="61px" height="41px"></a>
 <a href="https://materializecss.com/" title="Materialize"><img src="./icons/materialize.png" alt="Materialize logo" width="61px" height="41px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="./icons/bootstrap.png" alt="Bootstrap logo" width="61px" height="41px"></a>
 <a href="https://lit.dev/" title="Lit"><img src="./icons/lit-logo.png" alt="Lit logo" width="41px" height="41px"></a>
