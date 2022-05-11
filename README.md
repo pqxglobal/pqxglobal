@@ -44,6 +44,7 @@
 <a href="https://nuxtjs.org/" title="Nuxt"><img src="./icons/nuxt.png" alt="Nuxt logo" width="61px" height="41px"></a>
 <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="./icons/django.png" alt="Django logo" width="61px" height="41px"></a>
 <a href="https://sequelize.org/" title="Sequelize"><img src="./icons/sequelize.png" alt="Sequelize logo" width="41px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
