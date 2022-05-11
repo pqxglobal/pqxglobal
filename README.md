@@ -57,6 +57,8 @@
 <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
+<a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg.png" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
+<a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="41px" height="41px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
 <a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
 <a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
