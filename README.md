@@ -5,7 +5,6 @@
 # Tech Stack:
 
 > ## Programming Languages:
-> <a href="https://www.programiz.com/c-programming" title="C"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="./icons/cpp.png" alt="C plus plus programming language logo" width="41px" height="41px"></a>
 <a href="https://developer.arm.com/documentation/dui0473/j/writing-arm-assembly-language" title="ASM"><img src="./icons/asm-logo.png" alt="ASM logo" width="41px" height="41px"></a>
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="41px" height="41px"></a>
@@ -24,12 +23,10 @@
 
 > ## Toolset:
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
-<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="./icons/visualstudio.png" alt="Visual Studio" width="41px" height="41px"></a>
 <a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
-<a href="https://www.qt.io/product/ui-design-tools?hsLang=en" title="Qt Design Studio"><img src="./icons/designstudio.png" alt="Qt Design Studio logo" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
