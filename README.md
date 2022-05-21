@@ -5,9 +5,9 @@
 # Tech Stack:
 
 > ## Programming Languages:
-> <a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
+> <a href="https://developer.arm.com/documentation/dui0473/j/writing-arm-assembly-language" title="ASM"><img src="./icons/asm-logo.png" alt="ASM logo" width="41px" height="41px"></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="./icons/cpp.png" alt="C plus plus programming language logo" width="41px" height="41px"></a>
-<a href="https://developer.arm.com/documentation/dui0473/j/writing-arm-assembly-language" title="ASM"><img src="./icons/asm-logo.png" alt="ASM logo" width="41px" height="41px"></a>
 <a href="https://www.rust-lang.org/" title="Rust"><img src="./icons/rust.png" alt="Rust" width="41" height="41"></a>
 <a href="https://www.python.org/" title="Python"><img src="./icons/python.svg" alt="Python" width="41" height="41"></a>
 <a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript logo" width="41px" height="41px"></a>
