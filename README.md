@@ -35,6 +35,8 @@
 <a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
 <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
+<a href="https://yew.rs/" title="Yew"><img src="./icons/yew.png" alt="Yew logo" width="42px" height="41px"></a>
+<a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="82px" height="41px"></a>
 <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="./icons/react.svg" alt="React Native logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
