@@ -79,7 +79,7 @@
 <a href="https://lit.dev/" title="Lit"><img src="./icons/lit-logo.png" alt="Lit logo" width="41px" height="41px"></a>
 <a href="https://react.semantic-ui.com/" title="Semantic UI React"><img src="./icons/semantic-ui-react-logo.png" alt="Semantic UI React logo" width="41px" height="41px"></a>
 <a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
-<a href="https://google.github.io/styleguide/tsguide.html" title="Google Typescript Style Guide"><img src="./icons/chrome.png" alt="Google logo" width="41px" height="41px"></a>
+<a href="https://google.github.io/styleguide/tsguide.html" title="Google Typescript Style Guide"><img src="./icons/google.png" alt="Google logo" width="41px" height="41px"></a>
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://peps.python.org/pep-0008/" title="Python PEP8 Style Guide"><img src="./icons/pep8.png" alt="PEP8 logo" width="41px" height="41px"></a>
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Ockam Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
