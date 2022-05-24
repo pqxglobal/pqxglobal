@@ -73,7 +73,7 @@
 <a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://codepen.io/" title="Codepen"><img src="./icons/codepen.png" alt="Codepen logo" width="41px" height="41px"></a>
-<a href="https://jigsaw.w3.org/css-validator/#validate_by_input" title="w3c CSS validator"><img src="./icons/w3c.png" alt="W3C logo" width="61px" height="41px"></a>
+<a href="https://jigsaw.w3.org/css-validator/#validate_by_input" title="W3C CSS validator"><img src="./icons/w3c.png" alt="W3C logo" width="61px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind.png" alt="Tailwind logo" width="61px" height="41px"></a>
 <a href="https://materializecss.com/" title="Materialize"><img src="./icons/materialize.png" alt="Materialize logo" width="61px" height="41px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="./icons/bootstrap.png" alt="Bootstrap logo" width="61px" height="41px"></a>
