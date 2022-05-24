@@ -89,7 +89,6 @@
 <a href="https://postcss.org/" title="PostCSS"><img src="./icons/postcss.png" alt="PostCSS logo" width="42px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 <a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
-<a href="https://gulpjs.com/" title="Gulp"><img src="./icons/gulp.png" alt="Gulp logo" width="22px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
