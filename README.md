@@ -37,7 +37,9 @@
 <a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
 <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
+<a href="https://actix.rs/" title="Actix"><img src="./icons/actix.png" alt="Actix logo" width="42px" height="41px"></a>
 <a href="https://yew.rs/" title="Yew"><img src="./icons/yew.png" alt="Yew logo" width="42px" height="41px"></a>
+<a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 <a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="62px" height="41px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="./icons/django.png" alt="Django logo" width="41px" height="41px"></a>
 <a href="https://pypi.org/project/pip/" title="pip"><img src="./icons/pip.svg" alt="pip logo" width="62px" height="41px"></a>
