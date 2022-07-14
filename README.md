@@ -105,6 +105,7 @@
 <a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/python.svg" alt="PEP8 logo" width="41px" height="41px"></a>
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/rust.png" alt="Ockam logo" width="41px" height="41px"></a>
 > ### Package Managers:
-> <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
+> <a href="https://pnpm.io/" title="PNPM"><img src="./icons/pnpm.png" alt="PNPM logo" width="42px" height="41px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 <a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
