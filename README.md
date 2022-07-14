@@ -52,7 +52,6 @@
 <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
-<a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
 <a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
@@ -81,6 +80,8 @@
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
+> ### Monorepos:
+> <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 > ### Security:
 > <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
 <a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
