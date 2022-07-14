@@ -94,7 +94,7 @@
 <a href="https://www.nginx.com/" title="NGINX"><img src="./icons/nginx.png" alt="NGINX logo" width="42px" height="41px"></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="./icons/terraform.png" alt="Terraform logo" width="42px" height="41px"></a>
 > ### Styleguides:
-<a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
+> <a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
 <a href="https://google.github.io/styleguide/tsguide.html" title="Google Typescript Style Guide"><img src="./icons/google.png" alt="Google logo" width="41px" height="41px"></a>
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
