@@ -57,8 +57,6 @@
 <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
 <a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
 <a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
-<a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
 <a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://codepen.io/" title="Codepen"><img src="./icons/codepen.png" alt="Codepen logo" width="41px" height="41px"></a>
@@ -99,6 +97,9 @@
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/cpp.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/python.svg" alt="PEP8 logo" width="41px" height="41px"></a>
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/rust.png" alt="Ockam logo" width="41px" height="41px"></a>
+> ### Version Control Systems:
+> <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
+<a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
 > ### Package Managers:
 > <a href="https://pnpm.io/" title="PNPM"><img src="./icons/pnpm.png" alt="PNPM logo" width="42px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
