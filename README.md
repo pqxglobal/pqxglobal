@@ -100,6 +100,7 @@
 <a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
 <a href="https://angular.io/guide/styleguide" title="Angular style guide"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
 <a href="http://www.sourceformat.com/pdf/asm-coding-standard-brown.pdf" title="ASM style guide"><img src="./icons/asm-logo.png" alt="ASM logo" width="41px" height="41px"></a>
+<a href="https://cs50.readthedocs.io/style/c/" title="C style guide"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/cpp.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/python.svg" alt="PEP8 logo" width="41px" height="41px"></a>
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/rust.png" alt="Ockam logo" width="41px" height="41px"></a>
