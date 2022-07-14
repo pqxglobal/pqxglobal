@@ -101,3 +101,4 @@
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="./icons/kubernetes.png" alt="Kubernetes logo" width="42px" height="41px"></a>
 <a href="https://www.nginx.com/" title="NGINX"><img src="./icons/nginx.png" alt="NGINX logo" width="42px" height="41px"></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="./icons/terraform.png" alt="Terraform logo" width="42px" height="41px"></a>
+> ## Toolset:
