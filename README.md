@@ -81,14 +81,6 @@
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="./icons/bootstrap.png" alt="Bootstrap logo" width="61px" height="41px"></a>
 <a href="https://lit.dev/" title="Lit"><img src="./icons/lit-logo.png" alt="Lit logo" width="41px" height="41px"></a>
 <a href="https://react.semantic-ui.com/" title="Semantic UI React"><img src="./icons/semantic-ui-react-logo.png" alt="Semantic UI React logo" width="41px" height="41px"></a>
-<a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
-<a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
-<a href="https://google.github.io/styleguide/tsguide.html" title="Google Typescript Style Guide"><img src="./icons/google.png" alt="Google logo" width="41px" height="41px"></a>
-<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
-<a href="https://peps.python.org/pep-0008/" title="Python PEP8 Style Guide"><img src="./icons/pep8.png" alt="PEP8 logo" width="41px" height="41px"></a>
-<a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Ockam Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
-<a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="Adobe HTML Style Guide"><img src="./icons/adobe.png" alt="Adobe logo" width="41px" height="41px"></a>
-<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="Wordpress CSS Style Guide"><img src="./icons/wordpress.png" alt="Wordpress logo" width="41px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
 <a href="https://postcss.org/" title="PostCSS"><img src="./icons/postcss.png" alt="PostCSS logo" width="42px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
@@ -101,4 +93,13 @@
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="./icons/kubernetes.png" alt="Kubernetes logo" width="42px" height="41px"></a>
 <a href="https://www.nginx.com/" title="NGINX"><img src="./icons/nginx.png" alt="NGINX logo" width="42px" height="41px"></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="./icons/terraform.png" alt="Terraform logo" width="42px" height="41px"></a>
-> ## Toolset:
+> ## Styleguides:
+
+<a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
+<a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
+<a href="https://google.github.io/styleguide/tsguide.html" title="Google Typescript Style Guide"><img src="./icons/google.png" alt="Google logo" width="41px" height="41px"></a>
+<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
+<a href="https://peps.python.org/pep-0008/" title="Python PEP8 Style Guide"><img src="./icons/pep8.png" alt="PEP8 logo" width="41px" height="41px"></a>
+<a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Ockam Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
+<a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="Adobe HTML Style Guide"><img src="./icons/adobe.png" alt="Adobe logo" width="41px" height="41px"></a>
+<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="Wordpress CSS Style Guide"><img src="./icons/wordpress.png" alt="Wordpress logo" width="41px" height="41px"></a>
