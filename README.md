@@ -106,7 +106,7 @@
 <a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
 > ### Graphic Tools:
-<a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
+> <a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
