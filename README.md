@@ -98,6 +98,7 @@
 <a href="https://google.github.io/styleguide/tsguide.html" title="Typescript Style Guide"><img src="./icons/typescript.png" alt="Google logo" width="41px" height="41px"></a>
 <a href="https://airbnb.io/javascript/react/" title="React/JSX Style Guide"><img src="./icons/react.svg" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
+<a href="https://angular.io/guide/styleguide" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/cpp.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/python.svg" alt="PEP8 logo" width="41px" height="41px"></a>
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/rust.png" alt="Ockam logo" width="41px" height="41px"></a>
