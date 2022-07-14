@@ -83,8 +83,6 @@
 <a href="https://react.semantic-ui.com/" title="Semantic UI React"><img src="./icons/semantic-ui-react-logo.png" alt="Semantic UI React logo" width="41px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
 <a href="https://postcss.org/" title="PostCSS"><img src="./icons/postcss.png" alt="PostCSS logo" width="42px" height="41px"></a>
-<a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
-<a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
@@ -102,3 +100,6 @@
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Ockam Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
 <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="Adobe HTML Style Guide"><img src="./icons/adobe.png" alt="Adobe logo" width="41px" height="41px"></a>
 <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="Wordpress CSS Style Guide"><img src="./icons/wordpress.png" alt="Wordpress logo" width="41px" height="41px"></a>
+> ### Package Managers:
+> <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
+<a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
