@@ -31,7 +31,6 @@
 <a href="https://www.diagrams.net/" title="Diagrams.net"><img src="./icons/diagrams.png" alt="Diagrams.net logo" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
-<a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
 <a href="https://webassembly.org/" title="WASM"><img src="./icons/wasm.png" alt="WASM logo" width="42px" height="41px"></a>
 <a href="https://v8.dev/" title="V8"><img src="./icons/v8.svg" alt="V8 logo" width="42px" height="41px"></a>
 <a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
@@ -91,6 +90,7 @@
 > <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
+<a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
 > ### Styleguides:
 > <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="31px" height="41px"></a>
 <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/css-3.svg" alt="Wordpress logo" width="31px" height="41px"></a>
