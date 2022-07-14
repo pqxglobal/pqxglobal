@@ -92,16 +92,15 @@
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
 > ### Styleguides:
-> <a href="https://airbnb.io/javascript/" title="Airbnb JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
+> <a href="https://airbnb.io/javascript/" title="JavaScript Style Guide"><img src="./icons/airbnb.png" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
-<a href="https://google.github.io/styleguide/tsguide.html" title="Google Typescript Style Guide"><img src="./icons/google.png" alt="Google logo" width="41px" height="41px"></a>
-<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="Lockheed Martin C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
-<a href="https://peps.python.org/pep-0008/" title="Python PEP8 Style Guide"><img src="./icons/pep8.png" alt="PEP8 logo" width="41px" height="41px"></a>
-<a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Ockam Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
-<a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="Adobe HTML Style Guide"><img src="./icons/adobe.png" alt="Adobe logo" width="41px" height="41px"></a>
-<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="Wordpress CSS Style Guide"><img src="./icons/wordpress.png" alt="Wordpress logo" width="41px" height="41px"></a>
+<a href="https://google.github.io/styleguide/tsguide.html" title="Typescript Style Guide"><img src="./icons/google.png" alt="Google logo" width="41px" height="41px"></a>
+<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/lockheed.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
+<a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/pep8.png" alt="PEP8 logo" width="41px" height="41px"></a>
+<a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
+<a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/adobe.png" alt="Adobe logo" width="41px" height="41px"></a>
+<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/wordpress.png" alt="Wordpress logo" width="41px" height="41px"></a>
 > ### Package Managers:
 > <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 <a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
-test
