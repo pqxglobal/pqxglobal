@@ -92,8 +92,8 @@
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
 > ### Styleguides:
-> <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="41px" height="41px"></a>
-<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/css-3.svg" alt="Wordpress logo" width="41px" height="41px"></a>
+> <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="31px" height="41px"></a>
+<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/css-3.svg" alt="Wordpress logo" width="31px" height="41px"></a>
 <a href="https://airbnb.io/javascript/" title="JavaScript Style Guide"><img src="./icons/javascript.svg" alt="Airbnb logo" width="41px" height="41px"></a>
 <a href="https://google.github.io/styleguide/tsguide.html" title="Typescript Style Guide"><img src="./icons/typescript.png" alt="Google logo" width="41px" height="41px"></a>
 <a href="https://airbnb.io/javascript/react/" title="React/JSX Style Guide"><img src="./icons/react.svg" alt="Airbnb logo" width="41px" height="41px"></a>
