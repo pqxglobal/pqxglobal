@@ -24,10 +24,6 @@
 
 > ## Toolset:
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
-<a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
-<a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
-<a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
-<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
 <a href="https://www.diagrams.net/" title="Diagrams.net"><img src="./icons/diagrams.png" alt="Diagrams.net logo" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
@@ -109,3 +105,8 @@
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 <a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
+> ### Graphic Tools:
+<a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
+<a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
+<a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
+<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
