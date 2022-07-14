@@ -54,9 +54,6 @@
 <a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
 <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 <a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
-<a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
-<a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
-<a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
 <a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://codepen.io/" title="Codepen"><img src="./icons/codepen.png" alt="Codepen logo" width="41px" height="41px"></a>
@@ -84,6 +81,10 @@
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
+> ### Security:
+> <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
+<a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
+<a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
 > ### Styleguides:
 > <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="31px" height="41px"></a>
 <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/css-3.svg" alt="Wordpress logo" width="31px" height="41px"></a>
