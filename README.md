@@ -108,6 +108,6 @@
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
-> ### Hosting:
+> ### Hosting Providers:
 > <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
 <a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
