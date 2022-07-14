@@ -99,7 +99,7 @@
 <a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/cpp.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
 <a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/pep8.png" alt="PEP8 logo" width="41px" height="41px"></a>
 <a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/ockam.png" alt="Ockam logo" width="41px" height="41px"></a>
-<a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/adobe.png" alt="Adobe logo" width="41px" height="41px"></a>
+<a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="41px" height="41px"></a>
 <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/wordpress.png" alt="Wordpress logo" width="41px" height="41px"></a>
 > ### Package Managers:
 > <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
