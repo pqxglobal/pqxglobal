@@ -27,6 +27,7 @@
 <a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 <a href="https://www.codesynthesis.com/products/odb/" title="ODB"><img src="./icons/cpp.png" alt="ODB" width="41px" height="41px"></a>
 <a href="https://www.sqlalchemy.org/" title="SQLAlchemy"><img src="./icons/python.svg" alt="SQLAlchemy" width="41" height="41"></a>
+<a href="https://vuex-orm.github.io/plugin-graphql/" title="Vuex-ORM"><img src="./icons/vuexorm.png" alt="Vuex-ORM logo" width="61px" height="41px"></a>
 > ## Front-End Frameworks:
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
