@@ -88,6 +88,7 @@
 > <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
 <a href="https://gulpjs.com/" title="Gulp"><img src="./icons/gulp.png" alt="Gulp logo" width="21px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
+<a href="https://crates.io/" title="Cargo"><img src="./icons/cargo.png" alt="Cargo logo" width="42px" height="41px"></a>
 > ## DevOps:
 > <a href="https://circleci.com/" title="CircleCI"><img src="./icons/circleci.png" alt="CircleCI logo" width="41px" height="41px"></a>
 > ## Styleguides:
@@ -110,7 +111,6 @@
 > <a href="https://pnpm.io/" title="PNPM"><img src="./icons/pnpm.png" alt="PNPM logo" width="42px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 <a href="https://conan.io/" title="Conan"><img src="./icons/conan.png" alt="Conan logo" width="42px" height="41px"></a>
-<a href="https://crates.io/" title="Cargo"><img src="./icons/cargo.png" alt="Cargo logo" width="42px" height="41px"></a>
 <a href="https://pypi.org/project/pip/" title="pip"><img src="./icons/pip.svg" alt="pip logo" width="62px" height="41px"></a>
 <a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
