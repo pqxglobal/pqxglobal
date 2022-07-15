@@ -84,6 +84,8 @@
 > <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
 <a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
 <a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
+> ## Build Tools:
+> <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
 > ## DevOps:
 > <a href="https://circleci.com/" title="CircleCI"><img src="./icons/circleci.png" alt="CircleCI logo" width="41px" height="41px"></a>
 > ## Styleguides:
@@ -120,8 +122,7 @@
 > <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
 <a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
 > ## Others:
-> <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
-<a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
+> <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
