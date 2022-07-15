@@ -24,9 +24,7 @@
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
 <a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
-
 <a href="https://www.smithy.rs/" title="Smithy"><img src="./icons/rust.png" alt="Smithy logo" width="41px" height="41px"></a>
-
 > ## Back-End Frameworks:
 > <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
 <a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
