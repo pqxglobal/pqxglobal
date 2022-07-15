@@ -59,6 +59,7 @@
 <a href="https://materializecss.com/" title="Materialize"><img src="./icons/materialize.png" alt="Materialize logo" width="61px" height="41px"></a>
 <a href="https://semantic-ui.com/" title="Semantic UI"><img src="./icons/semanticui.png" alt="Semantic UI logo" width="41px" height="41px"></a>
 <a href="https://react.semantic-ui.com/" title="Semantic UI React"><img src="./icons/semantic-ui-react-logo.png" alt="Semantic UI React logo" width="41px" height="41px"></a>
+<a href="https://github.com/Semantic-UI-Vue/Semantic-UI-Vue" title="Semantic UI Vue"><img src="./icons/semanticuivue.png" alt="Semantic UI Vue logo" width="41px" height="41px"></a>
 <a href="https://lit.dev/" title="Lit"><img src="./icons/lit-logo.png" alt="Lit logo" width="41px" height="41px"></a>
 > ## CSS preprocessors:
 > <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
