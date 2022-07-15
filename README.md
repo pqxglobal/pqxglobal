@@ -38,6 +38,7 @@
 > <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
 <a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
 <a href="https://crates.io/crates/tide" title="Tide"><img src="./icons/tide.png" alt="Tide logo" width="41px" height="41px"></a>
+<a href="https://actix.rs/" title="Actix"><img src="./icons/actix.png" alt="Actix logo" width="42px" height="41px"></a>
 > ## Full-Stack Frameworks:
 > <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://nuxtjs.org/" title="Nuxt"><img src="./icons/nuxt.png" alt="Nuxt logo" width="61px" height="41px"></a>
@@ -116,7 +117,6 @@
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
-<a href="https://actix.rs/" title="Actix"><img src="./icons/actix.png" alt="Actix logo" width="42px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
