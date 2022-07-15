@@ -23,6 +23,7 @@
 > ## Object/Relational Mappers:
 > <a href="https://sequelize.org/" title="Sequelize"><img src="./icons/sequelize.png" alt="Sequelize logo" width="41px" height="41px"></a>
 <a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma.png" alt="Prisma logo" width="31px" height="41px"></a>
+<a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 > ## Front-End Frameworks:
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
@@ -110,7 +111,6 @@
 <a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
 <a href="https://actix.rs/" title="Actix"><img src="./icons/actix.png" alt="Actix logo" width="42px" height="41px"></a>
 <a href="https://yew.rs/" title="Yew"><img src="./icons/yew.png" alt="Yew logo" width="42px" height="41px"></a>
-<a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
