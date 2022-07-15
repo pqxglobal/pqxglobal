@@ -64,6 +64,7 @@
 > ## Bundlers:
 > <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="62px" height="41px"></a>
+<a href="https://python-poetry.org/" title="Poetry"><img src="./icons/poetry.png" alt="Poetry logo" width="62px" height="41px"></a>
 > ## Monorepos:
 > <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 > ## Security:
