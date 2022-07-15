@@ -27,6 +27,8 @@
 > ## Back-End Frameworks:
 > <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
 <a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
+> ## Full-Stack Frameworks:
+> <a href="https://www.djangoproject.com/" title="Django"><img src="./icons/django.png" alt="Django logo" width="41px" height="41px"></a>
 > ## Test Frameworks:
 > <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
@@ -81,7 +83,6 @@
 <a href="https://yew.rs/" title="Yew"><img src="./icons/yew.png" alt="Yew logo" width="42px" height="41px"></a>
 <a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 <a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="62px" height="41px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="./icons/django.png" alt="Django logo" width="41px" height="41px"></a>
 <a href="https://pypi.org/project/pip/" title="pip"><img src="./icons/pip.svg" alt="pip logo" width="62px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="./icons/react.svg" alt="React Native logo" width="41px" height="41px"></a>
