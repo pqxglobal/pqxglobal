@@ -30,6 +30,7 @@
 <a href="https://vuex-orm.github.io/plugin-graphql/" title="Vuex-ORM"><img src="./icons/vuexorm.png" alt="Vuex-ORM logo" width="61px" height="41px"></a>
 > ## Mock Data:
 > <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
+<a href="https://jsonplaceholder.typicode.com/" title="JSON"><img src="./icons/json.png" alt="JSON logo" width="61px" height="41px"></a>
 > ## Front-End Frameworks:
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
