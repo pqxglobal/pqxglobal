@@ -73,6 +73,7 @@
 > <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
+<a href="https://docs.pytest.org/en/7.1.x/contents.html" title="Pytest"><img src="./icons/pytest.png" alt="Pytest logo" width="41px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
