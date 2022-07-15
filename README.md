@@ -128,7 +128,7 @@
 > ## Hosting Providers:
 > <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
 <a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
-> ## Environment:
+> ## Environment Variables:
 > <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
 > ## Compilers:
-<a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
+> <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
