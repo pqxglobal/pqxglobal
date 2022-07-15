@@ -37,6 +37,7 @@
 > <a href="https://getbootstrap.com/" title="Bootstrap"><img src="./icons/bootstrap.png" alt="Bootstrap logo" width="61px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind.png" alt="Tailwind logo" width="61px" height="41px"></a>
 <a href="https://materializecss.com/" title="Materialize"><img src="./icons/materialize.png" alt="Materialize logo" width="61px" height="41px"></a>
+<a href="https://semantic-ui.com/" title="Semantic UI"><img src="./icons/semanticui.png" alt="Semantic UI logo" width="41px" height="41px"></a>
 <a href="https://react.semantic-ui.com/" title="Semantic UI React"><img src="./icons/semantic-ui-react-logo.png" alt="Semantic UI React logo" width="41px" height="41px"></a>
 <a href="https://lit.dev/" title="Lit"><img src="./icons/lit-logo.png" alt="Lit logo" width="41px" height="41px"></a>
 > ## CSS preprocessors:
