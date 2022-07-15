@@ -31,6 +31,11 @@
 > <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://nuxtjs.org/" title="Nuxt"><img src="./icons/nuxt.png" alt="Nuxt logo" width="61px" height="41px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="./icons/django.png" alt="Django logo" width="41px" height="41px"></a>
+> ## Mobile:
+> <a href="https://reactnative.dev/" title="React Native"><img src="./icons/react.svg" alt="React Native logo" width="41px" height="41px"></a>
+> ## Embedded:
+> <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
 > ## Test Frameworks:
 > <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
@@ -82,14 +87,11 @@
 <a href="https://webassembly.org/" title="WASM"><img src="./icons/wasm.png" alt="WASM logo" width="42px" height="41px"></a>
 <a href="https://v8.dev/" title="V8"><img src="./icons/v8.svg" alt="V8 logo" width="42px" height="41px"></a>
 <a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
-<a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
-<a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
 <a href="https://actix.rs/" title="Actix"><img src="./icons/actix.png" alt="Actix logo" width="42px" height="41px"></a>
 <a href="https://yew.rs/" title="Yew"><img src="./icons/yew.png" alt="Yew logo" width="42px" height="41px"></a>
 <a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 <a href="https://pypi.org/project/pip/" title="pip"><img src="./icons/pip.svg" alt="pip logo" width="62px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
-<a href="https://reactnative.dev/" title="React Native"><img src="./icons/react.svg" alt="React Native logo" width="41px" height="41px"></a>
 <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://sequelize.org/" title="Sequelize"><img src="./icons/sequelize.png" alt="Sequelize logo" width="41px" height="41px"></a>
