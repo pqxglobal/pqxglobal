@@ -14,14 +14,59 @@
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript.png" alt="Typescript logo" width="41px" height="41px"></a>
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="31px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="31px" height="41px"></a>
-
 > ## Databases:
 > <a href="https://www.sqlite.org/docs.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite" width="82" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL" width="41" height="41"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql-logo.png" alt="MySQL" width="62" height="41"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql-logo.png" alt="MSSQL" width="42" height="41"></a>
 <a href="https://www.mongodb.com/" title="Mongo DB"><img src="./icons/mongo.png" alt="Mongo DB logo" width="42" height="41"></a>
-
+> ## Front-End Frameworks:
+> <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
+<a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
+<a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
+> ## Back-End Frameworks:
+> <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
+<a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
+> ## Test Frameworks:
+> <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
+<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
+<a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
+<a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
+> ## Monorepos:
+> <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
+> ## Security:
+> <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
+<a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
+<a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
+> ## Styleguides:
+> <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="31px" height="41px"></a>
+<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/css-3.svg" alt="Wordpress logo" width="31px" height="41px"></a>
+<a href="https://airbnb.io/javascript/" title="JavaScript Style Guide"><img src="./icons/javascript.svg" alt="Airbnb logo" width="41px" height="41px"></a>
+<a href="https://google.github.io/styleguide/tsguide.html" title="Typescript Style Guide"><img src="./icons/typescript.png" alt="Google logo" width="41px" height="41px"></a>
+<a href="https://airbnb.io/javascript/react/" title="React Style Guide"><img src="./icons/react.svg" alt="Airbnb logo" width="41px" height="41px"></a>
+<a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
+<a href="https://angular.io/guide/styleguide" title="Angular style guide"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
+<a href="http://www.sourceformat.com/pdf/asm-coding-standard-brown.pdf" title="ASM style guide"><img src="./icons/asm-logo.png" alt="ASM logo" width="41px" height="41px"></a>
+<a href="https://cs50.readthedocs.io/style/c/" title="C style guide"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
+<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/cpp.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
+<a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/python.svg" alt="PEP8 logo" width="41px" height="41px"></a>
+<a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/rust.png" alt="Ockam logo" width="41px" height="41px"></a>
+> ## Version Control Systems:
+> <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
+<a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
+> ## Package Managers:
+> <a href="https://pnpm.io/" title="PNPM"><img src="./icons/pnpm.png" alt="PNPM logo" width="42px" height="41px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
+<a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
+> ## Graphic Tools:
+> <a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
+<a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
+<a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
+<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
+> ## Hosting Providers:
+> <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
+<a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
 > ## Toolset:
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://www.diagrams.net/" title="Diagrams.net"><img src="./icons/diagrams.png" alt="Diagrams.net logo" width="41px" height="41px"></a>
@@ -69,50 +114,3 @@
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="./icons/kubernetes.png" alt="Kubernetes logo" width="42px" height="41px"></a>
 <a href="https://www.nginx.com/" title="NGINX"><img src="./icons/nginx.png" alt="NGINX logo" width="42px" height="41px"></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="./icons/terraform.png" alt="Terraform logo" width="42px" height="41px"></a>
-> ### Front-End Frameworks:
-> <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
-<a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
-<a href="https://angular.io/" title="Angular"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
-> ### Back-End Frameworks:
-> <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
-<a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
-> ### Test Frameworks:
-> <a href="https://mochajs.org/" title="Mocha"><img src="./icons/mocha.svg" alt="Mocha logo" width="41px" height="41px"></a>
-<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
-<a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
-<a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
-> ### Monorepos:
-> <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
-> ### Security:
-> <a href="https://oauth.net/" title="OAuth"><img src="./icons/Oauth.png" alt="OAuth logo" width="41px" height="41px"></a>
-<a href="https://jwt.io/" title="JSON Web Tokens"><img src="./icons/jwt_logo.svg" alt="JSON Web Tokens logo" width="41px" height="41px"></a>
-<a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
-> ### Styleguides:
-> <a href="https://developer.adobe.com/commerce/php/coding-standards/html-style-guide/" title="HTML Style Guide"><img src="./icons/html-5.svg" alt="Adobe logo" width="31px" height="41px"></a>
-<a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/" title="CSS Style Guide"><img src="./icons/css-3.svg" alt="Wordpress logo" width="31px" height="41px"></a>
-<a href="https://airbnb.io/javascript/" title="JavaScript Style Guide"><img src="./icons/javascript.svg" alt="Airbnb logo" width="41px" height="41px"></a>
-<a href="https://google.github.io/styleguide/tsguide.html" title="Typescript Style Guide"><img src="./icons/typescript.png" alt="Google logo" width="41px" height="41px"></a>
-<a href="https://airbnb.io/javascript/react/" title="React Style Guide"><img src="./icons/react.svg" alt="Airbnb logo" width="41px" height="41px"></a>
-<a href="https://v2.vuejs.org/v2/style-guide/?redirect=true" title="Vue style guide"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
-<a href="https://angular.io/guide/styleguide" title="Angular style guide"><img src="./icons/angular.png" alt="Angular logo" width="41px" height="41px"></a>
-<a href="http://www.sourceformat.com/pdf/asm-coding-standard-brown.pdf" title="ASM style guide"><img src="./icons/asm-logo.png" alt="ASM logo" width="41px" height="41px"></a>
-<a href="https://cs50.readthedocs.io/style/c/" title="C style guide"><img src="./icons/C_Logo.png" alt="C programming language logo" width="41px" height="41px"></a>
-<a href="https://www.stroustrup.com/JSF-AV-rules.pdf" title="C++ Style Guide"><img src="./icons/cpp.png" alt="Lockheed Martin logo" width="41px" height="41px"></a>
-<a href="https://peps.python.org/pep-0008/" title="Python Style Guide"><img src="./icons/python.svg" alt="PEP8 logo" width="41px" height="41px"></a>
-<a href="https://www.ockam.io/learn/how-to-guides/contributing/ockam_rust_code_standard" title="Rust Style Guide"><img src="./icons/rust.png" alt="Ockam logo" width="41px" height="41px"></a>
-> ### Version Control Systems:
-> <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git" width="41px" height="41px"></a>
-<a href="https://github.com/" title="GitHub"><img src="./icons/github-logo.png" alt="GitHub logo" width="41px" height="41px"></a>
-> ### Package Managers:
-> <a href="https://pnpm.io/" title="PNPM"><img src="./icons/pnpm.png" alt="PNPM logo" width="42px" height="41px"></a>
-<a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
-<a href="https://chocolatey.org/" title="Chocolatey"><img src="./icons/chocolatey.png" alt="Chocolatey logo" width="42px" height="41px"></a>
-<a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="42px" height="41px"></a>
-> ### Graphic Tools:
-> <a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="31px" height="41px"></a>
-<a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="31px" height="41px"></a>
-<a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="31px" height="41px"></a>
-<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
-> ### Hosting Providers:
-> <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
-<a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
