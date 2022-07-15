@@ -32,8 +32,7 @@
 <a href="https://nuxtjs.org/" title="Nuxt"><img src="./icons/nuxt.png" alt="Nuxt logo" width="61px" height="41px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="./icons/django.png" alt="Django logo" width="41px" height="41px"></a>
 > ## Mobile:
-> <a href="https://reactnative.dev/" title="React Native"><img src="./icons/react.svg" alt="React Native logo" width="41px" height="41px"></a>
-<a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
+> <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
 > ## Embedded:
 > <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="Keil logo" width="82px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32.png" alt="STM32CubeIDE logo" width="82px" height="41px"></a>
