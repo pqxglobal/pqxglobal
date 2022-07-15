@@ -74,6 +74,8 @@
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-logo.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="./icons/cypress.png" alt="Cypress logo" width="41px" height="41px"></a>
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
+<a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
+<a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
 > ## Bundlers:
 > <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
 <a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="62px" height="41px"></a>
@@ -127,6 +129,4 @@
 > <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
-<a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
-<a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
