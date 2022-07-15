@@ -28,6 +28,7 @@
 > ## Back-End Frameworks:
 > <a href="https://expressjs.com/" title="Express"><img src="./icons/expressjs.png" alt="Express logo" width="41px" height="41px"></a>
 <a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
+<a href="https://crates.io/crates/tide" title="Tide"><img src="./icons/tide.png" alt="Tide logo" width="41px" height="41px"></a>
 > ## Full-Stack Frameworks:
 > <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://nuxtjs.org/" title="Nuxt"><img src="./icons/nuxt.png" alt="Nuxt logo" width="61px" height="41px"></a>
