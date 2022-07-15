@@ -52,6 +52,10 @@
 > ## CSS preprocessors:
 > <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="42px" height="41px"></a>
 <a href="https://postcss.org/" title="PostCSS"><img src="./icons/postcss.png" alt="PostCSS logo" width="42px" height="41px"></a>
+> ## Webassembly:
+> <a href="https://webassembly.org/" title="WASM"><img src="./icons/wasm.png" alt="WASM logo" width="42px" height="41px"></a>
+<a href="https://v8.dev/" title="V8"><img src="./icons/v8.svg" alt="V8 logo" width="42px" height="41px"></a>
+<a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
 > ## Mobile:
 > <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
 > ## Embedded:
@@ -111,9 +115,6 @@
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
 <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
-<a href="https://webassembly.org/" title="WASM"><img src="./icons/wasm.png" alt="WASM logo" width="42px" height="41px"></a>
-<a href="https://v8.dev/" title="V8"><img src="./icons/v8.svg" alt="V8 logo" width="42px" height="41px"></a>
-<a href="https://emscripten.org/" title="Emscripten"><img src="./icons/emscripten.png" alt="Emscripten logo" width="42px" height="41px"></a>
 <a href="https://actix.rs/" title="Actix"><img src="./icons/actix.png" alt="Actix logo" width="42px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
