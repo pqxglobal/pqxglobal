@@ -28,6 +28,8 @@
 <a href="https://www.codesynthesis.com/products/odb/" title="ODB"><img src="./icons/cpp.png" alt="ODB" width="41px" height="41px"></a>
 <a href="https://www.sqlalchemy.org/" title="SQLAlchemy"><img src="./icons/python.svg" alt="SQLAlchemy" width="41" height="41"></a>
 <a href="https://vuex-orm.github.io/plugin-graphql/" title="Vuex-ORM"><img src="./icons/vuexorm.png" alt="Vuex-ORM logo" width="61px" height="41px"></a>
+> ## Mock Data:
+> <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 > ## Front-End Frameworks:
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
@@ -124,5 +126,4 @@
 <a href="https://axios-http.com/" title="Axios"><img src="./icons/axios.png" alt="Axios logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
-<a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
