@@ -86,7 +86,7 @@
 <a href="https://www.passportjs.org/" title="Passport"><img src="./icons/passportjs.png" alt="Passport logo" width="31px" height="41px"></a>
 > ## Build Tools:
 > <a href="https://cmake.org/" title="CMake"><img src="./icons/cmake-logo.png" alt="CMake logo" width="41px" height="41px"></a>
-<a href="https://gulpjs.com/" title="Gulp"><img src="./icons/gulp.png" alt="Gulp logo" width="41px" height="41px"></a>
+<a href="https://gulpjs.com/" title="Gulp"><img src="./icons/gulp.png" alt="Gulp logo" width="21px" height="41px"></a>
 > ## DevOps:
 > <a href="https://circleci.com/" title="CircleCI"><img src="./icons/circleci.png" alt="CircleCI logo" width="41px" height="41px"></a>
 > ## Styleguides:
