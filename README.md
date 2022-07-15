@@ -115,13 +115,5 @@
 <a href="https://axios-http.com/" title="Axios"><img src="./icons/axios.png" alt="Axios logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
-<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="./icons/gatsby.png" alt="Gatsby logo" width="42px" height="41px"></a>
-<a href="https://www.google.com/intl/en/chrome/" title="Google Chrome"><img src="./icons/chrome.png" alt="Google Chrome logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
-<a href="https://codepen.io/" title="Codepen"><img src="./icons/codepen.png" alt="Codepen logo" width="41px" height="41px"></a>
-<a href="https://jigsaw.w3.org/css-validator/#validate_by_input" title="W3C CSS validator"><img src="./icons/w3c.png" alt="W3C logo" width="61px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
-<a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="42px" height="41px"></a>
-<a href="https://kubernetes.io/" title="Kubernetes"><img src="./icons/kubernetes.png" alt="Kubernetes logo" width="42px" height="41px"></a>
-<a href="https://www.nginx.com/" title="NGINX"><img src="./icons/nginx.png" alt="NGINX logo" width="42px" height="41px"></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="./icons/terraform.png" alt="Terraform logo" width="42px" height="41px"></a>
