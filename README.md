@@ -15,6 +15,7 @@
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="31px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="31px" height="41px"></a>
 <a href="https://www.datenbanken-verstehen.de/" title="SQL"><img src="./icons/sql.png" alt="SQL" width="31px" height="41px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 > ## code editors:
 > <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icons/visual-studio-code.svg" alt="Visual Studio Code" width="41px" height="41px"></a>
 <a href="https://www.qt.io/product/development-tools?hsLang=en" title="Qt Creator"><img src="./icons/qt.png" alt="Qt Creator logo" width="41px" height="41px"></a>
@@ -128,6 +129,5 @@
 > <a href="https://www.netlify.com/" title="Netlify"><img src="./icons/netlify.png" alt="Netlify logo" width="41px" height="41px"></a>
 <a href="https://www.hostinger.com/" title="Hostinger"><img src="./icons/hostinger.png" alt="Hostinger logo" width="41px" height="41px"></a>
 > ## Others:
-> <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
-<a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
+> <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
