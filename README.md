@@ -20,10 +20,9 @@
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql-logo.png" alt="MySQL" width="62" height="41"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql-logo.png" alt="MSSQL" width="42" height="41"></a>
 <a href="https://www.mongodb.com/" title="Mongo DB"><img src="./icons/mongo.png" alt="Mongo DB logo" width="42" height="41"></a>
-
 > ## Object/Relational Mappers:
 > <a href="https://sequelize.org/" title="Sequelize"><img src="./icons/sequelize.png" alt="Sequelize logo" width="41px" height="41px"></a>
-
+<a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma.png" alt="Prisma logo" width="31px" height="41px"></a>
 > ## Front-End Frameworks:
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
