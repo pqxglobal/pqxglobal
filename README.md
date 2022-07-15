@@ -132,3 +132,4 @@
 > <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
 > ## Compilers:
 > <a href="https://babeljs.io/" title="Babel"><img src="./icons/babel.svg" alt="Babel logo" width="82px" height="41px"></a>
+<a href="https://gcc.gnu.org/" title="GCC"><img src="./icons/gcc.png" alt="GCC logo" width="32px" height="41px"></a>
