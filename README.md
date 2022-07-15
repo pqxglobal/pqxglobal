@@ -79,10 +79,6 @@
 <a href="https://www.froglogic.com/" title="Froglogic"><img src="./icons/froglogic.png" alt="Froglogic logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://insomnia.rest/" title="Insomnia"><img src="./icons/insomnia.png" alt="Insomnia logo" width="41px" height="41px"></a>
-> ## Bundlers:
-> <a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
-<a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="62px" height="41px"></a>
-<a href="https://python-poetry.org/" title="Poetry"><img src="./icons/poetry.png" alt="Poetry logo" width="42px" height="41px"></a>
 > ## Monorepos:
 > <a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="41px" height="41px"></a>
 > ## Security:
@@ -94,6 +90,9 @@
 <a href="https://gulpjs.com/" title="Gulp"><img src="./icons/gulp.png" alt="Gulp logo" width="21px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://crates.io/" title="Cargo"><img src="./icons/cargo.png" alt="Cargo logo" width="42px" height="41px"></a>
+<a href="https://webpack.js.org/" title="Webpack"><img src="./icons/webpack.png" alt="Webpack logo" width="42px" height="41px"></a>
+<a href="https://trunkrs.dev/" title="Trunc"><img src="./icons/trunc.svg" alt="Trunc logo" width="62px" height="41px"></a>
+<a href="https://python-poetry.org/" title="Poetry"><img src="./icons/poetry.png" alt="Poetry logo" width="42px" height="41px"></a>
 > ## DevOps:
 > <a href="https://circleci.com/" title="CircleCI"><img src="./icons/circleci.png" alt="CircleCI logo" width="41px" height="41px"></a>
 > ## Styleguides:
