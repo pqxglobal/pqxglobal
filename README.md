@@ -20,6 +20,10 @@
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql-logo.png" alt="MySQL" width="62" height="41"></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="MSSQL"><img src="./icons/mssql-logo.png" alt="MSSQL" width="42" height="41"></a>
 <a href="https://www.mongodb.com/" title="Mongo DB"><img src="./icons/mongo.png" alt="Mongo DB logo" width="42" height="41"></a>
+
+> ## Object/Relational Mappers:
+> <a href="https://sequelize.org/" title="Sequelize"><img src="./icons/sequelize.png" alt="Sequelize logo" width="41px" height="41px"></a>
+
 > ## Front-End Frameworks:
 > <a href="https://reactjs.org/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="./icons/vuejs.png" alt="Vue logo" width="41px" height="41px"></a>
@@ -109,7 +113,6 @@
 <a href="https://diesel.rs/" title="Diesel"><img src="./icons/diesel.png" alt="Diesel logo" width="42px" height="41px"></a>
 <a href="https://pybuilder.io/" title="PyBuilder"><img src="./icons/pybuilder.svg" alt="pybuilder logo" width="62px" height="41px"></a>
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
-<a href="https://sequelize.org/" title="Sequelize"><img src="./icons/sequelize.png" alt="Sequelize logo" width="41px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://www.npmjs.com/package/dotenv" title="dotenv"><img src="./icons/dotenv.png" alt="dotenv logo" width="41px" height="41px"></a>
 <a href="https://axios-http.com/" title="Axios"><img src="./icons/axios.png" alt="Axios logo" width="41px" height="41px"></a>
